@@ -1,0 +1,10 @@
+# compiled output
+
+
+#log
+
+
+# IDE - VSCode
+.vscode/*
+.history/*
+*.code-workspace
