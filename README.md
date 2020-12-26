@@ -1,4 +1,4 @@
-Deno back-end application for angular-chat
+# Deno backend server
 
-# run
+### run
 deno run --allow-net server.ts
